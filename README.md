@@ -30,7 +30,6 @@ A simple terminal to-do list written in Rust. You can add tasks, view them, and 
 ```
 
 ## What I learned
-## What I learned
 - How to keep a task and its done status together
 - How to write my own function so I don't repeat code
 - How to use `match` to handle different menu choices
