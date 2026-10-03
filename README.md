@@ -36,4 +36,4 @@ A simple terminal to-do list written in Rust. You can add tasks, view them, and 
 - How to use `match` to handle different menu choices
 - How to deal with wrong input without the program crashing
 
-This was my first time using Rust, so it was a bit confusing at first, but as i progress, i would understand it better
+This was my first time using Rust, so it was a bit confusing at first, but as i progress, i would understand find my way around it.
